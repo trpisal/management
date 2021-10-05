@@ -7,6 +7,7 @@ namespace tanaji_pisal
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            console.WriteLine("welcome");
         }
     }
 }
